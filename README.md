@@ -1,4 +1,3 @@
-ArithTree
-=========
+# ArithTree
 
-CSC344 Assignment 3: Simplifies arithmetic expressions using a tree structure.
+Simplifies arithmetic expressions using a tree structure.
